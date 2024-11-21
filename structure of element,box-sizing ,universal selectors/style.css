@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+h1{
+    color:mediumblue;
+    background-color: aqua;
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px 5px darkgreen;
+    text-shadow: 2px 2px 2px saddlebrown ;
+    border: 2px dashed black;
+    border-radius:20px ;
+}
+p{
+    width: 800px;
+    height: 250px;
+    display: inline-block;
+    text-align: justify;
+    overflow: auto;
+}
+#bandiHeading{
+    text-align: right;
+    width: 1000px;
+    color: blue;
+}
+#ji{
+    background-color: orange;
+}
+h2{
+    color: brown;
+}
+
+.h2BJP{
+    color: aqua;
+}
+#BRSHeading{
+    color: hotpink;
+    background-color: bisque;
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px 5px khaki;
+    text-shadow: 2px 2px 2px darkmagenta;
+    border-radius: 20px;
+    border: 2px double black;
+}
+#harishHeading{
+    text-align: right;
+    color: blueviolet;
+    width: 950px;
+}
+#headingPadmaRao{
+    color: hotpink;
+}
+#congressHeading{
+    color: blueviolet;
+    background-color: goldenrod;
+    
+
+}
+#headingBatti{
+    color: forestgreen;
+}
+#headingAsaduddin{
+    color: blue;
+}
+.imgBorder{
+    border-radius: 50%;
+}
+#imgBandi{
+padding-left: 5%; 
+padding-right: 5%; 
+border: 5px dotted blue;
+
+} 
+#ktrImg{
+    border:5px ridge purple;
+    margin-right: 3%;
+    padding: 20px;
+    box-sizing: content-box;
+}
+#eatalaImg{
+    border: 20px double hotpink;
+    margin-right: 5%;
+    
+    box-sizing: border-box;
+}
+#raoImg{
+    padding: 20px;
+    border: 5px groove yellow;
+    box-sizing: content-box;
+}
+#imgKishan{
+    border: 5px solid green;
+    margin-left: 5%;
+    box-sizing: content-box;
+}
+#imgRaghu{
+    border: 5px dashed darkmagenta;
+    padding-top: 3%;
+    margin-bottom:1%;
+    box-sizing: border-box;
+
+}
+#imgKCR{
+    border: 20px inset palevioletred;
+    box-sizing: content-box;
+}
+#harishImg{
+    border: 5px outset darkorange;
+    margin: 1%;
+}
+#imgPonnam{
+    margin: 3%;
+    border: 20px groove green;
+}
